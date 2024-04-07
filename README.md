@@ -1,3 +1,2 @@
 Preview
-
-![screencapture-file-C-Users-Sajid-Desktop-Html-CSS-Javascript-Projects-Javascript-API-Projects-API-by-javascript-king-04-Random-quoute-generator-index-html-2024-04-07-13_42_21](https://github.com/sajidasghar/dad-jokes-generator-api-javaScript-project/assets/152764869/46fc2bac-78a4-4126-ab19-3d5c1b56ec2b)
+![screencapture-file-C-Users-Sajid-Desktop-Html-CSS-Javascript-Projects-Javascript-API-Projects-API-by-javascript-king-01-dad-jokes-generator-index-html-2024-04-07-13_40_00](https://github.com/sajidasghar/dad-jokes-generator-api-javaScript-project/assets/152764869/31ed17e7-d8ed-4174-8e9b-74ce6b96d76d)
